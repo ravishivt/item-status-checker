@@ -1,0 +1,11 @@
+{
+  "checker": {
+    "itemStatusLink": "https://shop.usa.canon.com/shop/en/catalog/refurbished-color-imageclass-mf743cdw",
+    "itemStatusSelector": ".text.inventoryStatus"
+  },
+  "emailer": {
+    "gmailSenderUsername": "gmail-username@gmail.com",
+    "gmailSenderPassword": "gmail-password",
+    "emailReceiver": "some-email-address@email.com"
+  }
+}
